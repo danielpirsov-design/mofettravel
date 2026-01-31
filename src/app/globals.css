@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #38bdf8; /* תכלת יפה */
+}
+
+body {
+  @apply bg-sky-50 text-gray-800;
+}
